@@ -1,1 +1,1 @@
-abcdefg											\x1a\x13
+#the content typed in main file is reflected here
